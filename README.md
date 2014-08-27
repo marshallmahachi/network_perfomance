@@ -1,0 +1,9 @@
+network_perfomance
+==================
+
+code to analyze network perfomance stats....
+
+The code uses xlrd python module, therefore it can only read *.xls files and no the xml formatted *.xlsx
+first clean your files  -clean all forms of formatting..
+                        -delete the top rows and first columns that do not have any data...
+                        -remove % sign in ZTE files and convert to number....
